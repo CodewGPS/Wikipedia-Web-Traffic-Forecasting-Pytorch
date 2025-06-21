@@ -25,7 +25,7 @@ This study evaluates the performance of different recurrent neural network archi
 - **Bidirectional Processing**: Enhanced temporal pattern recognition through forward and backward sequence processing
 - **GPU Acceleration**: Optimized training using NVIDIA Tesla P100 GPU
 
-```
+
 
 ## 🔬 Methodology
 
