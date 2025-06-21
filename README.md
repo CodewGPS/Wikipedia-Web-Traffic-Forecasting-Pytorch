@@ -2,6 +2,10 @@
 
 A comprehensive comparison of six deep learning architectures (RNN, LSTM, GRU, and their bidirectional variants) for predicting Wikipedia web traffic using time-series analysis.
 
+## 📄 Project Paper
+
+You can read the full project paper [here](https://drive.google.com/file/d/1DPxv_dR2tCsf7uiuSYZmElaLtxAvnyrA/view?usp=sharing).
+
 ## 📊 Research Overview
 
 This study evaluates the performance of different recurrent neural network architectures for web traffic forecasting using real-world Wikipedia page view data. The research demonstrates that **Bidirectional LSTM (BiLSTM)** achieves superior performance with an R² score of **0.93**, making it the most effective model for capturing long-term temporal dependencies in web traffic patterns.
